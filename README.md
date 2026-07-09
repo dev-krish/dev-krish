@@ -128,3 +128,43 @@ An interactive developer portfolio inspired by modern product design.
 
 </tr>
 </table>
+
+---
+
+# 🛠️ Tech Arsenal
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,c" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,cloudflare,vercel" />
+</p>
+
+### Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,tensorflow" />
+</p>
