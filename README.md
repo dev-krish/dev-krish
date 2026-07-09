@@ -193,3 +193,21 @@ An interactive developer portfolio inspired by modern product design.
 <p>
   <img src="https://skillicons.dev/icons?i=spring,tensorflow" />
 </p>
+
+---
+
+# 📊 GitHub at a Glance
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark"/>
+
+</p>
