@@ -131,6 +131,31 @@ An interactive developer portfolio inspired by modern product design.
 
 ---
 
+---
+
+# 🌍 Open Source Journey
+
+```text
+💻 Started Programming
+        │
+        ▼
+⚛️ Built Full Stack Applications
+        │
+        ▼
+🌍 Started Contributing to Open Source
+        │
+        ▼
+💼 Software Engineering Intern
+        │
+        ▼
+🚀 20+ Merged Pull Requests
+        │
+        ▼
+🤖 Building AI-powered Products
+```
+
+> Every project, every pull request, and every bug fix has been another step toward becoming a better engineer. I'm passionate about building software in the open and collaborating with developers around the world.
+
 # 🛠️ Tech Arsenal
 
 ### Languages
