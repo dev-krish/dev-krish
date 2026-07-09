@@ -4,9 +4,9 @@
 
 <br />
 
-<a href="https://dev-krish.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
+<a href="https://krishnendu-dutta-portfolio.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
 <a href="https://linkedin.com/in/krishnendu-dutta-5a1512384"><img src="https://img.shields.io/badge/🔗_LinkedIn-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
-<a href="mailto:devkrishnendu@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
+<a href="mailto:krishnendu.dutta.dev@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
 <a href="#"><img src="https://img.shields.io/badge/📄_Resume-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
 
 </div>
