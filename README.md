@@ -26,6 +26,7 @@ Building products that people actually use.
 
 </p>
 
+---
 
 <p align="center">
 
@@ -33,10 +34,24 @@ Building products that people actually use.
 
 </p>
 
+---
+
 ## 👨‍💻 Who am I?
 
 - 🎓 Computer Science Student
 - 💼 Software Engineering Intern
-- 🌍 20+ Merged Open Source Pull Requests
+- 🌍 Open Source Contributor
 - 🚀 Passionate about building scalable products
 - 🤖 Currently exploring AI & Machine Learning
+
+---
+
+## 🚀 Current Mission
+
+- Building production-ready applications
+- Contributing to Open Source
+- Learning Spring Boot
+- Exploring Machine Learning
+- Improving UI/UX craftsmanship
+
+---
