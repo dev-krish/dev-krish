@@ -1,278 +1,209 @@
-<div align="center">
+<h1 align="center">
+  Hey 👋, I'm Krishnendu Dutta
+</h1>
 
-<img src="./assets/banner.png" width="100%" alt="Krishnendu Dutta banner" />
+<h3 align="center">
+Full Stack Developer • Open Source Contributor • AI Explorer
+</h3>
 
-<br />
+<p align="center">
+Building products that people actually use.
+</p>
 
-<a href="https://dev-krish.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
-<a href="https://linkedin.com/in/krishnendu-dutta-5a1512384"><img src="https://img.shields.io/badge/🔗_LinkedIn-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
-<a href="mailto:devkrishnendu@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
-<a href="#"><img src="https://img.shields.io/badge/📄_Resume-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
+<p align="center">
 
-</div>
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-<br />
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-### 🧑‍💻 Who Am I?
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Building+Production+Ready+Applications;Open+Source+Contributor;Exploring+Machine+Learning;Always+Learning+Something+New" />
+
+</p>
+
+---
+
+## 👨‍💻 Who am I?
 
 - 🎓 Computer Science Student
 - 💼 Software Engineering Intern
-- 🌱 20+ Merged Open Source PRs
-- 🚀 Full Stack Developer
-- 🤖 Exploring AI & Machine Learning
-- 🐧 Linux Enthusiast
+- 🌍 Open Source Contributor
+- 🚀 Passionate about building scalable products
+- 🤖 Currently exploring AI & Machine Learning
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🎯 Current Mission
+## 🚀 Current Mission
 
-- 🏗️ Building production-ready applications
-- 🌍 Contributing to Open Source
-- ☕ Learning Spring Boot
-- 🧠 Exploring Machine Learning
-- 🎨 Crafting beautiful user experiences
+- Building production-ready applications
+- Contributing to Open Source
+- Learning Spring Boot
+- Exploring Machine Learning
+- Improving UI/UX craftsmanship
 
-</td>
-</tr>
-</table>
+---
 
-<br />
-
-## ⭐ Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%">
 
-<img src="./assets/devmate.png" width="100%" />
+### 🤖 DevMate
 
-**DevMate** — AI Telegram Assistant
-AI-powered Telegram assistant with Gemini API.
+AI-powered Telegram assistant built with Python, Docker, and Gemini.
 
-`Python` `Docker` `Gemini`
+**Tech**
+- Python
+- Docker
+- Gemini API
 
-[`💻 Code`](https://github.com/dev-krish/DevMate) &nbsp;•&nbsp; [`🚀 Live`](#)
+🔗 Repository
 
 </td>
+
 <td width="50%">
 
-<img src="./assets/stackatlas.png" width="100%" />
+### 🌐 StackAtlas
 
-**StackAtlas** — GitHub Repository Analyzer
-AI-powered GitHub repository analyzer.
+AI-powered GitHub repository analyzer with repository insights.
 
-`Next.js` `MongoDB` `API`
+**Tech**
+- Next.js
+- MongoDB
+- GitHub API
 
-[`💻 Code`](https://github.com/dev-krish/StackAtlas) &nbsp;•&nbsp; [`🚀 Live`](#)
+🔗 Repository
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%">
 
-<img src="./assets/whisper.png" width="100%" />
+### 💬 Whisper
 
-**Whisper** — Real-time Chat App
-Real-time chat application using MERN stack.
+A real-time chat application built using the MERN stack.
 
-`React` `Node.js` `Socket.IO`
+**Tech**
+- React
+- Node.js
+- Socket.IO
+- MongoDB
 
-[`💻 Code`](https://github.com/dev-krish/Whisper) &nbsp;•&nbsp; [`🚀 Live`](#)
+🔗 Repository
 
 </td>
+
 <td width="50%">
 
-<img src="./assets/portfolio.png" width="100%" />
+### 🎨 Portfolio
 
-**Portfolio** — Developer Portfolio
-Modern & interactive personal portfolio website.
+An interactive developer portfolio inspired by modern product design.
 
-`Next.js` `Tailwind CSS` `Framer`
+**Tech**
+- Next.js
+- Tailwind CSS
+- Framer Motion
 
-[`💻 Code`](https://github.com/dev-krish/Portfolio) &nbsp;•&nbsp; [`🚀 Live`](https://dev-krish.vercel.app)
+🔗 Live Demo
 
 </td>
+
 </tr>
 </table>
 
-<br />
+---
 
-## 🛠️ Tech Arsenal
+---
 
-<table>
-<tr>
-<td align="center" valign="top" width="16.6%">
+# 🌍 Open Source Journey
 
-**Languages**
-<br /><br />
-<img src="https://skillicons.dev/icons?i=js,ts,py,c" />
+```text
+💻 Started Programming
+        │
+        ▼
+⚛️ Built Full Stack Applications
+        │
+        ▼
+🌍 Started Contributing to Open Source
+        │
+        ▼
+💼 Software Engineering Intern
+        │
+        ▼
+🚀 20+ Merged Pull Requests
+        │
+        ▼
+🤖 Building AI-powered Products
+```
 
-</td>
-<td align="center" valign="top" width="16.6%">
+> Every project, every pull request, and every bug fix has been another step toward becoming a better engineer. I'm passionate about building software in the open and collaborating with developers around the world.
 
-**Frontend**
-<br /><br />
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,threejs" />
+# 🛠️ Tech Arsenal
 
-</td>
-<td align="center" valign="top" width="16.6%">
+### Languages
 
-**Backend**
-<br /><br />
-<img src="https://skillicons.dev/icons?i=nodejs,express,deno" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,c" />
+</p>
 
-</td>
-<td align="center" valign="top" width="16.6%">
+### Frontend
 
-**Databases**
-<br /><br />
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
 
-</td>
-<td align="center" valign="top" width="16.6%">
+### Backend
 
-**DevOps & Tools**
-<br /><br />
-<img src="https://skillicons.dev/icons?i=docker,cloudflare,github,postman,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
 
-</td>
-<td align="center" valign="top" width="16.6%">
+### Databases
 
-**AI / ML**
-<br /><br />
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite" />
+</p>
 
-</td>
-</tr>
-</table>
+### DevOps & Tools
 
-<br />
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,cloudflare,vercel" />
+</p>
 
-## 🌍 Open Source Journey
+### Currently Learning
 
-<table>
-<tr align="center">
-<td width="16.6%">
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,tensorflow" />
+</p>
 
-**</>**
-<br />
-Started Programming
-<br />
-`2022`
+---
 
-</td>
-<td width="16.6%">
+## 📈 Contribution Activity
 
-**💻**
-<br />
-Built Full Stack Applications
-<br />
-`2023`
-
-</td>
-<td width="16.6%">
-
-**🔀**
-<br />
-Started Open Source
-<br />
-`2023`
-
-</td>
-<td width="16.6%">
-
-**💼**
-<br />
-Software Engineering Intern
-<br />
-`2024`
-
-</td>
-<td width="16.6%">
-
-**⭐**
-<br />
-20+ Merged Pull Requests
-<br />
-`2024`
-
-</td>
-<td width="16.6%">
-
-**🚀**
-<br />
-Building AI Products
-<br />
-`2025`
-
-</td>
-</tr>
-</table>
-
-<br />
-
-## 📊 GitHub Activity
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dev-krish&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="100%" />
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-krish&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="100%" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-krish&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff" width="100%" />
-</div>
-
-<br />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-krish&theme=github-compact&hide_border=true"/>
+</p>
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/snake.svg" />
-  <img alt="contribution snake animation" src="./assets/snake.svg" width="100%" />
-</picture>
-
-_generated automatically every day via_ [`.github/workflows/snake.yml`](./.github/workflows/snake.yml)
-
-</div>
-
-<br />
-
-## 💜 Let's Build Something Amazing
-
-<div align="center">
-
-<a href="https://dev-krish.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-dev--krish.vercel.app-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
-<a href="https://linkedin.com/in/krishnendu-dutta-5a1512384"><img src="https://img.shields.io/badge/🔗_LinkedIn-/in/krishnendu--dutta-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
-<a href="mailto:devkrishnendu@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-devkrishnendu@gmail.com-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
-<a href="#"><img src="https://img.shields.io/badge/📄_Resume-Download_PDF-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
-<a href="https://github.com/dev-krish"><img src="https://img.shields.io/badge/🐙_GitHub-@dev--krish-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-**_Building products. Learning constantly. Sharing openly._**  &nbsp;|&nbsp;  _See you around!_ 👋
-
-💜
-
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/dev-krish/dev-krish/output/github-contribution-grid-snake.svg">
+</p>
