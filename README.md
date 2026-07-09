@@ -25,3 +25,10 @@ Building products that people actually use.
 </a>
 
 </p>
+
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Building+Production+Ready+Applications;Open+Source+Contributor;Exploring+Machine+Learning;Always+Learning+Something+New" />
+
+</p>
