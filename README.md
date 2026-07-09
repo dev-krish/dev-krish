@@ -1,219 +1,278 @@
-<h1 align="center">
-  Hey 👋, I'm Krishnendu Dutta
-</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • Open Source Contributor • AI Explorer
-</h3>
+<img src="./assets/banner.png" width="100%" alt="Krishnendu Dutta banner" />
 
-<p align="center">
-Building products that people actually use.
-</p>
+<br />
 
-<p align="center">
+<a href="https://dev-krish.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
+<a href="https://linkedin.com/in/krishnendu-dutta-5a1512384"><img src="https://img.shields.io/badge/🔗_LinkedIn-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
+<a href="mailto:devkrishnendu@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
+<a href="#"><img src="https://img.shields.io/badge/📄_Resume-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+</div>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Building+Production+Ready+Applications;Open+Source+Contributor;Exploring+Machine+Learning;Always+Learning+Something+New" />
-
-</p>
-
----
-
-## 👨‍💻 Who am I?
-
-- 🎓 Computer Science Student
-- 💼 Software Engineering Intern
-- 🌍 Open Source Contributor
-- 🚀 Passionate about building scalable products
-- 🤖 Currently exploring AI & Machine Learning
-
----
-
-## 🚀 Current Mission
-
-- Building production-ready applications
-- Contributing to Open Source
-- Learning Spring Boot
-- Exploring Machine Learning
-- Improving UI/UX craftsmanship
-
----
-
-# 🚀 Featured Projects
+<br />
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🧑‍💻 Who Am I?
 
-### 🤖 DevMate
-
-AI-powered Telegram assistant built with Python, Docker, and Gemini.
-
-**Tech**
-- Python
-- Docker
-- Gemini API
-
-🔗 Repository
+- 🎓 Computer Science Student
+- 💼 Software Engineering Intern
+- 🌱 20+ Merged Open Source PRs
+- 🚀 Full Stack Developer
+- 🤖 Exploring AI & Machine Learning
+- 🐧 Linux Enthusiast
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🎯 Current Mission
 
-### 🌐 StackAtlas
-
-AI-powered GitHub repository analyzer with repository insights.
-
-**Tech**
-- Next.js
-- MongoDB
-- GitHub API
-
-🔗 Repository
+- 🏗️ Building production-ready applications
+- 🌍 Contributing to Open Source
+- ☕ Learning Spring Boot
+- 🧠 Exploring Machine Learning
+- 🎨 Crafting beautiful user experiences
 
 </td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 💬 Whisper
-
-A real-time chat application built using the MERN stack.
-
-**Tech**
-- React
-- Node.js
-- Socket.IO
-- MongoDB
-
-🔗 Repository
-
-</td>
-
-<td width="50%">
-
-### 🎨 Portfolio
-
-An interactive developer portfolio inspired by modern product design.
-
-**Tech**
-- Next.js
-- Tailwind CSS
-- Framer Motion
-
-🔗 Live Demo
-
-</td>
-
 </tr>
 </table>
 
----
+<br />
 
----
+## ⭐ Featured Projects
 
-# 🌍 Open Source Journey
+<table>
+<tr>
+<td width="50%">
 
-```text
-💻 Started Programming
-        │
-        ▼
-⚛️ Built Full Stack Applications
-        │
-        ▼
-🌍 Started Contributing to Open Source
-        │
-        ▼
-💼 Software Engineering Intern
-        │
-        ▼
-🚀 20+ Merged Pull Requests
-        │
-        ▼
-🤖 Building AI-powered Products
-```
+<img src="./assets/devmate.png" width="100%" />
 
-> Every project, every pull request, and every bug fix has been another step toward becoming a better engineer. I'm passionate about building software in the open and collaborating with developers around the world.
+**DevMate** — AI Telegram Assistant
+AI-powered Telegram assistant with Gemini API.
 
-# 🛠️ Tech Arsenal
+`Python` `Docker` `Gemini`
 
-### Languages
+[`💻 Code`](https://github.com/dev-krish/DevMate) &nbsp;•&nbsp; [`🚀 Live`](#)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,c" />
-</p>
+</td>
+<td width="50%">
 
-### Frontend
+<img src="./assets/stackatlas.png" width="100%" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
+**StackAtlas** — GitHub Repository Analyzer
+AI-powered GitHub repository analyzer.
 
-### Backend
+`Next.js` `MongoDB` `API`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
+[`💻 Code`](https://github.com/dev-krish/StackAtlas) &nbsp;•&nbsp; [`🚀 Live`](#)
 
-### Databases
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite" />
-</p>
+<img src="./assets/whisper.png" width="100%" />
 
-### DevOps & Tools
+**Whisper** — Real-time Chat App
+Real-time chat application using MERN stack.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,cloudflare,vercel" />
-</p>
+`React` `Node.js` `Socket.IO`
 
-### Currently Learning
+[`💻 Code`](https://github.com/dev-krish/Whisper) &nbsp;•&nbsp; [`🚀 Live`](#)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,tensorflow" />
-</p>
+</td>
+<td width="50%">
 
----
+<img src="./assets/portfolio.png" width="100%" />
 
-# 📊 GitHub at a Glance
+**Portfolio** — Developer Portfolio
+Modern & interactive personal portfolio website.
 
-<p align="center">
+`Next.js` `Tailwind CSS` `Framer`
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark"/>
+[`💻 Code`](https://github.com/dev-krish/Portfolio) &nbsp;•&nbsp; [`🚀 Live`](https://dev-krish.vercel.app)
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+</td>
+</tr>
+</table>
 
-</p>
+<br />
 
-<p align="center">
+## 🛠️ Tech Arsenal
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-krish&layout=compact&hide_border=true&theme=github_dark"/>
+<table>
+<tr>
+<td align="center" valign="top" width="16.6%">
 
-</p>
+**Languages**
+<br /><br />
+<img src="https://skillicons.dev/icons?i=js,ts,py,c" />
 
-## 📈 Contribution Activity
+</td>
+<td align="center" valign="top" width="16.6%">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-krish&theme=github-compact&hide_border=true"/>
-</p>
+**Frontend**
+<br /><br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,threejs" />
+
+</td>
+<td align="center" valign="top" width="16.6%">
+
+**Backend**
+<br /><br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,deno" />
+
+</td>
+<td align="center" valign="top" width="16.6%">
+
+**Databases**
+<br /><br />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+
+</td>
+<td align="center" valign="top" width="16.6%">
+
+**DevOps & Tools**
+<br /><br />
+<img src="https://skillicons.dev/icons?i=docker,cloudflare,github,postman,vscode" />
+
+</td>
+<td align="center" valign="top" width="16.6%">
+
+**AI / ML**
+<br /><br />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## 🌍 Open Source Journey
+
+<table>
+<tr align="center">
+<td width="16.6%">
+
+**</>**
+<br />
+Started Programming
+<br />
+`2022`
+
+</td>
+<td width="16.6%">
+
+**💻**
+<br />
+Built Full Stack Applications
+<br />
+`2023`
+
+</td>
+<td width="16.6%">
+
+**🔀**
+<br />
+Started Open Source
+<br />
+`2023`
+
+</td>
+<td width="16.6%">
+
+**💼**
+<br />
+Software Engineering Intern
+<br />
+`2024`
+
+</td>
+<td width="16.6%">
+
+**⭐**
+<br />
+20+ Merged Pull Requests
+<br />
+`2024`
+
+</td>
+<td width="16.6%">
+
+**🚀**
+<br />
+Building AI Products
+<br />
+`2025`
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## 📊 GitHub Activity
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dev-krish&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="100%" />
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-krish&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-krish&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff" width="100%" />
+</div>
+
+<br />
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/snake.svg" />
+  <img alt="contribution snake animation" src="./assets/snake.svg" width="100%" />
+</picture>
+
+_generated automatically every day via_ [`.github/workflows/snake.yml`](./.github/workflows/snake.yml)
+
+</div>
+
+<br />
+
+## 💜 Let's Build Something Amazing
+
+<div align="center">
+
+<a href="https://dev-krish.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-dev--krish.vercel.app-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
+<a href="https://linkedin.com/in/krishnendu-dutta-5a1512384"><img src="https://img.shields.io/badge/🔗_LinkedIn-/in/krishnendu--dutta-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
+<a href="mailto:devkrishnendu@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-devkrishnendu@gmail.com-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
+<a href="#"><img src="https://img.shields.io/badge/📄_Resume-Download_PDF-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
+<a href="https://github.com/dev-krish"><img src="https://img.shields.io/badge/🐙_GitHub-@dev--krish-0d1117?style=for-the-badge&labelColor=0d1117&color=8b5cf6" /></a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+**_Building products. Learning constantly. Sharing openly._**  &nbsp;|&nbsp;  _See you around!_ 👋
+
+💜
+
+</div>
