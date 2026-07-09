@@ -102,56 +102,45 @@ Modern & interactive personal portfolio website.
 
 <br />
 
-## 🛠️ Tech Arsenal
+# 🛠️ Tech Arsenal
 
-<table>
-<tr>
-<td align="center" valign="top" width="16.6%">
+### Languages
 
-**Languages**
-<br /><br />
-<img src="https://skillicons.dev/icons?i=js,ts,py,c" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,c" />
+</p>
 
-</td>
-<td align="center" valign="top" width="16.6%">
+### Frontend
 
-**Frontend**
-<br /><br />
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,threejs" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
 
-</td>
-<td align="center" valign="top" width="16.6%">
+### Backend
 
-**Backend**
-<br /><br />
-<img src="https://skillicons.dev/icons?i=nodejs,express,deno" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
 
-</td>
-<td align="center" valign="top" width="16.6%">
+### Databases
 
-**Databases**
-<br /><br />
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite" />
+</p>
 
-</td>
-<td align="center" valign="top" width="16.6%">
+### DevOps & Tools
 
-**DevOps & Tools**
-<br /><br />
-<img src="https://skillicons.dev/icons?i=docker,cloudflare,github,postman,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,cloudflare,vercel" />
+</p>
 
-</td>
-<td align="center" valign="top" width="16.6%">
+### Currently Learning
 
-**AI / ML**
-<br /><br />
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,tensorflow" />
+</p>
 
-</td>
-</tr>
-</table>
-
-<br />
+---
 
 ## 🌍 Open Source Journey
 
