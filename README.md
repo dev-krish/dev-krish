@@ -208,6 +208,6 @@ An interactive developer portfolio inspired by modern product design.
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-krish&layout=compact&hide_border=true&theme=github_dark"/>
 
 </p>
