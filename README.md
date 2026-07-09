@@ -55,3 +55,76 @@ Building products that people actually use.
 - Improving UI/UX craftsmanship
 
 ---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 DevMate
+
+AI-powered Telegram assistant built with Python, Docker, and Gemini.
+
+**Tech**
+- Python
+- Docker
+- Gemini API
+
+🔗 Repository
+
+</td>
+
+<td width="50%">
+
+### 🌐 StackAtlas
+
+AI-powered GitHub repository analyzer with repository insights.
+
+**Tech**
+- Next.js
+- MongoDB
+- GitHub API
+
+🔗 Repository
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💬 Whisper
+
+A real-time chat application built using the MERN stack.
+
+**Tech**
+- React
+- Node.js
+- Socket.IO
+- MongoDB
+
+🔗 Repository
+
+</td>
+
+<td width="50%">
+
+### 🎨 Portfolio
+
+An interactive developer portfolio inspired by modern product design.
+
+**Tech**
+- Next.js
+- Tailwind CSS
+- Framer Motion
+
+🔗 Live Demo
+
+</td>
+
+</tr>
+</table>
